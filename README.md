@@ -65,12 +65,15 @@
   ربات به‌صورت خودکار بر اساس زمان‌بندی تنظیم‌شده در داشبورد Cloudflare قیمت‌ها را به کانال ارسال می‌کند.
 
 
-## عیب‌یابی
-- **ربات جوابی نمیده**: توکن ربات و URL webhook را بررسی کنید. لاگ‌های Worker را در داشبورد Cloudflare (تب **Logs**) ببینید.
-- **پیام ارسال نشد**: بررسی کنید که ربات در کانال ادمین باشد
+## ‫عیب‌یابی
 
-  ### حمایت از من
+- **‫ربات جوابی نمی‌دهد**\
+  ‫توکن ربات و URL webhook را بررسی کنید. لاگ‌های Worker را در داشبورد Cloudflare (تب **Logs**) ببینید.
+- **‫پیام ارسال نشد**\
+  ‫بررسی کنید که ربات در کانال ادمین باشد.
 
-- **بیت‌کوین (BTC):** `bc1qh0dy9ylrshkfds6q6qf68qmvrhnf5kfm4pgar2`
-- **تتر (USDT, ERC-20):** `0x0c3f72A99434Dd41F6c56Dd7f17C6e4CD8F1C52B`
-- **ترون (TRX):** `TH9iKJBSNdkPgaHk4ofBCGdf5kZtiW7LZW`
+## ‫حمایت از من
+
+- **‫بیت‌کوین (BTC):** `bc1qh0dy9ylrshkfds6q6qf68qmvrhnf5kfm4pgar2`
+- **‫تتر (USDT, ERC-20):** `0x0c3f72A99434Dd41F6c56Dd7f17C6e4CD8F1C52B`
+- **‫ترون (TRX):** `TH9iKJBSNdkPgaHk4ofBCGdf5kZtiW7LZW`
