@@ -47,9 +47,9 @@
 
 5. **تنظیم Webhook تلگرام** :
    - URL webhook را برای ربات تنظیم کنید تا به‌روزرسانی‌ها را دریافت کند:
-     ```
- "https://api.telegram.org/bot<توکن-ربات>/setWebhook?url=https://<نام-worker>.<حساب-شما>.workers.dev"
-     ```
+   
+ ```https://api.telegram.org/bot<توکن-ربات>/setWebhook?url=https://<نام-worker>.<حساب-شما>.workers.dev```
+
 
 6. **افزودن ربات به کانال**:
    - ربات را به کانال تلگرام اضافه کنید و به آن دسترسی ادمین برای ارسال پیام بدهید.
